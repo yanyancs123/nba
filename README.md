@@ -9,6 +9,8 @@ This project contains three major components.
 2. Node.js server which handles request from front end, will query DB with given playerid
 3. MangoDB Atlas Stores the actual JSON response we get from nba.com
 
+![img](https://imgur.com/a/EybnY8a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

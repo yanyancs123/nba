@@ -1,3 +1,14 @@
+## Current players stored in DB
+
+Stephen Curry, James Harden, Lebron James, Joel Embiid, Luka Doncic
+
+## System architecture
+
+This project contains three major components.
+1. Front end React app
+2. Node.js server which handles request from front end, will query DB with given playerid
+3. MangoDB Atlas Stores the actual JSON response we get from nba.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -23,10 +34,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Current players stored in DB
-
-Stephen Curry, James Harden, Lebron James, Joel Embiid, Luka Doncic
 
 ## Learn More
 
